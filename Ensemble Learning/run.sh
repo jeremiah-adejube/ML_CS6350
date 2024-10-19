@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python3 Assignment2.py
+python3 Homework_2.py
