@@ -1,1 +1,1 @@
-
+This readme file is for Assignment 4 (SVM) The run.sh file calls in the Assignment4.py file The file consist of Questions 2a, 2b, 2c, 3a, 3b and 3d. The result of the code are also attached in the PDF submitted on canvas
