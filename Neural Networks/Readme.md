@@ -1,1 +1,1 @@
-This readme file is for Assignment 5 (Neural Network and Logistic Regression) The run.sh file calls in the Assignment 5.py file The file consist of Questions 2a, 2b, 2c, 2e, 3a, 3b and 3c. Results of the Questions were also submitted in on Canvas as PDF
+This readme file is for Assignment5 (Neural Network and Logistic Regression) The run.sh file calls in the Assignment 5.py file The file consist of Questions 2a, 2b, 2c, 2e, 3a, 3b and 3c. Results of the Questions were also submitted in on Canvas as PDF
